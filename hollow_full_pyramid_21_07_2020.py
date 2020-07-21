@@ -12,3 +12,5 @@ for i in range(1,2):
 			i = i+1;
 		else:
 			print(' ',end="")
+
+print("Pyramid Pattern")
